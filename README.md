@@ -60,20 +60,4 @@ python main.py
 
 点击 “保存识别结果” 将文本保存为 .txt 文件。
 
-🤝 贡献
-
-欢迎提交 Issue 和 Pull Request，共同完善该项目。
-
-📜 许可证
-
-本项目基于 MIT License 许可。
-
-📬 联系方式
-
-作者: Your Name
-
-邮箱: your.email@example.com
-
-GitHub: Your GitHub Profile
-
 感谢你的使用与支持！🎉
