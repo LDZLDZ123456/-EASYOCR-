@@ -33,6 +33,7 @@ Pillow (PIL)：图像展示与处理
 1. 克隆项目
 
 git clone https://github.com/LDZLDZ123456/EASYocr-text-recognizer.git
+
 cd ocr-text-recognition
 
 2. 安装依赖库
